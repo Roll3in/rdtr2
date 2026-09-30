@@ -20,7 +20,7 @@ export default function Home() {
     <main>
       <Header />
       <section className="hero">
-        <Image src="/pic/hero.jpg" alt="อาคาร Rada Retreat ท่ามกลางสวนในยามเย็น" fill priority sizes="100vw" />
+        <Image src="/pic/hero.jpg" alt="อาคาร Radateeree Boutique Resort ท่ามกลางสวนในยามเย็น" fill priority sizes="100vw" />
         <div className="hero-shade" />
         <div className="hero-copy">
           <p>CHIANG MAI · THAILAND</p>
@@ -33,7 +33,7 @@ export default function Home() {
 
       <section className="intro section" id="story">
         <div className="intro-heading"><p className="eyebrow">OUR STORY</p><h2>{tr("ความเรียบง่าย", "Simplicity,")}<br />{tr("ที่ออกแบบมาอย่างตั้งใจ", "thoughtfully designed")}</h2></div>
-        <div className="intro-copy"><p>{tr("เราเชื่อว่าการพักผ่อนที่ดีที่สุด เริ่มต้นจากพื้นที่ที่ทำให้คุณรู้สึกเป็นตัวเอง Rada Retreat จึงถ่ายทอดเสน่ห์ของเรือนไทยล้านนาผ่านงานไม้ แสงอุ่น และสวนที่เติบโตไปพร้อมกับกาลเวลา", "We believe the finest rest begins in a place where you can truly be yourself. Rada Retreat captures the spirit of Lanna through natural wood, warm light and gardens that grow with time.")}</p><p>{tr("ทุกห้อง ทุกมื้ออาหาร และทุกรายละเอียด ถูกสร้างขึ้นเพื่อให้คุณได้หยุดพักอย่างแท้จริง", "Every room, every meal and every detail is created so you can genuinely slow down.")}</p><Link href="/booking" className="text-link">{tr("วางแผนการเข้าพัก", "Plan your stay")} <span>↗</span></Link></div>
+        <div className="intro-copy"><p>{tr("เราเชื่อว่าการพักผ่อนที่ดีที่สุด เริ่มต้นจากพื้นที่ที่ทำให้คุณรู้สึกเป็นตัวเอง Radateeree Boutique Resort จึงถ่ายทอดเสน่ห์ของเรือนไทยล้านนาผ่านงานไม้ แสงอุ่น และสวนที่เติบโตไปพร้อมกับกาลเวลา", "We believe the finest rest begins in a place where you can truly be yourself. Radateeree Boutique Resort captures the spirit of Lanna through natural wood, warm light and gardens that grow with time.")}</p><p>{tr("ทุกห้อง ทุกมื้ออาหาร และทุกรายละเอียด ถูกสร้างขึ้นเพื่อให้คุณได้หยุดพักอย่างแท้จริง", "Every room, every meal and every detail is created so you can genuinely slow down.")}</p><Link href="/booking" className="text-link">{tr("วางแผนการเข้าพัก", "Plan your stay")} <span>↗</span></Link></div>
       </section>
 
       <section className="rooms section" id="rooms">

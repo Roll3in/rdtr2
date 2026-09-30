@@ -1,4 +1,4 @@
-# Rada Retreat
+# Radateeree Boutique Resort
 
 Landing page และ booking engine สำหรับโรงแรม สร้างด้วย Next.js, TypeScript และ Tailwind CSS โดยแยกการเชื่อมต่อ PMS ผ่าน provider adapter
 

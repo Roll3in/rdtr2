@@ -7,7 +7,7 @@ import "@fontsource/prompt/600.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: { default: "Rada Retreat | A Quiet Kind of Luxury", template: "%s | Rada Retreat" },
+  title: { default: "Radateeree Boutique Resort | A Quiet Kind of Luxury", template: "%s | Radateeree Boutique Resort" },
   description: "สัมผัสการพักผ่อนเหนือระดับท่ามกลางสวนร่มรื่น ห้องพักแสนสงบ และการบริการที่อบอุ่น",
 };
 

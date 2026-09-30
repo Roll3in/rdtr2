@@ -19,7 +19,7 @@ export function Header({ solid = false }: { solid?: boolean }) {
 
   return (
     <header className={`site-header ${solid || scrolled ? "header-solid" : ""}`}>
-      <Link className="brand" href="/" aria-label="Rada Retreat หน้าแรก">
+      <Link className="brand" href="/" aria-label="Radateeree Boutique Resort หน้าแรก">
         <Image
           className="brand-logo"
           src="/pic/logo.png"

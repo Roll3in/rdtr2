@@ -1,6 +1,6 @@
 # คู่มือสร้างเว็บไซต์โรงแรมเบื้องต้นตั้งแต่เริ่มต้น
 
-คู่มือนี้อ้างอิงจากโปรเจกต์ Rada Retreat ซึ่งสร้างด้วย Next.js, TypeScript และ Tailwind CSS พร้อมระบบสองภาษา, Booking Engine, PMS Adapter และ animation ด้วย GSAP/React Bits
+คู่มือนี้อ้างอิงจากโปรเจกต์ Radateeree Boutique Resort ซึ่งสร้างด้วย Next.js, TypeScript และ Tailwind CSS พร้อมระบบสองภาษา, Booking Engine, PMS Adapter และ animation ด้วย GSAP/React Bits
 
 ## 1. สิ่งที่ต้องติดตั้ง
 
@@ -319,7 +319,7 @@ copy .env.example .env.local
 
 ```env
 PMS_PROVIDER=mock
-PMS_PROPERTY_ID=rada-retreat
+PMS_PROPERTY_ID=radateeree-boutique-resort
 PMS_BASE_URL=
 PMS_API_KEY=
 PMS_WEBHOOK_KEY=change-me
@@ -460,4 +460,3 @@ npm.cmd run dev
 - [ ] Lint, tests และ production build ผ่าน
 - [ ] ทดสอบ PMS sandbox ก่อนใช้งานจริง
 - [ ] มี Privacy Policy และข้อมูลติดต่อจริง
-
